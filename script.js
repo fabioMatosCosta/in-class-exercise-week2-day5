@@ -1,6 +1,7 @@
 // Rover Object Goes Here
 // ======================
-const rover = {
+class Rover {
+    constructor(){}
     direction: "N",
     x: 0,
     y: 0,

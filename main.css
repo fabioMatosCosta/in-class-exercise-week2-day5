@@ -1,0 +1,9 @@
+#game {
+    height: 100vh;
+    width: 100vw;
+}
+
+#wall-e {
+    width: 80px;
+    position: fixed;
+}
